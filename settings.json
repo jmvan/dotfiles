@@ -1,0 +1,7 @@
+{
+    "vim.useSystemClipboard": true,
+    "vim.incsearch": true,
+    "vim.hlsearch": true,
+    "vim.autoindent": true,
+    "vim.smartRelativeLine": true,
+}
